@@ -2150,3 +2150,314 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:09:01.613
 !MESSAGE 21:09:01.158 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.core.resources 2 2 2026-07-14 21:09:54.199
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2026-07-14 21:09:54.199
+!MESSAGE The project description file (.project) for 'WhatsAppOrderManagement' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:09:56.444
+!MESSAGE 21:09:56.440 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:00.390
+!MESSAGE 21:10:00.033 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:00.392
+!MESSAGE 21:10:00.389 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:00.392
+!MESSAGE 21:10:00.389 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:01.000
+!MESSAGE 21:10:00.985 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 15
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:01.023
+!MESSAGE 21:10:01.022 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:01.030
+!MESSAGE 21:10:01.029 [pool-3-thread-45] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:01.520
+!MESSAGE 21:10:01.519 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:01.529
+!MESSAGE 21:10:01.529 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:01.999
+!MESSAGE 21:10:01.998 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.441
+!MESSAGE 21:10:02.441 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 19
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.444
+!MESSAGE p(LocalCache.java:3467)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.445
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.postWriteCleanup(LocalCache.java:3443)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.446
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.remove(LocalCache.java:3077)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.447
+!MESSAGE 	at com.google.common.cache.LocalCache.remove(LocalCache.java:4251)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.447
+!MESSAGE 	at com.google.common.cache.LocalCache$LocalManualCache.invalidate(LocalCache.java:4891)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.449
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.invalidateCuForJavaFile(CompilationUnitCache.java:383)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.449
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.lambda$new$0(CompilationUnitCache.java:130)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.450
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ListenerList.fire(ListenerList.java:29)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.450
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleTextDocumentService.didChange(SimpleTextDocumentService.java:210)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.451
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.451
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.452
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.452
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.452
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.453
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.453
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.453
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.454
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.454
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.455
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.455
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.455
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.456
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.456
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.456
+!MESSAGE Caused by: java.util.concurrent.CancellationException: null
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.456
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2552)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.457
+!MESSAGE 	... 26 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.621
+!MESSAGE 21:10:02.465 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.909
+!MESSAGE 21:10:02.908 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 21
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.914
+!MESSAGE 21:10:02.913 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:02.925
+!MESSAGE 21:10:02.923 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:03.408
+!MESSAGE 21:10:03.407 [pool-3-thread-45] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:03.413
+!MESSAGE 21:10:03.413 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:03.415
+!MESSAGE 21:10:03.414 [pool-3-thread-45] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:03.827
+!MESSAGE 21:10:03.826 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:04.020
+!MESSAGE 21:10:04.013 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:04.108
+!MESSAGE 21:10:04.024 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:04.109
+!MESSAGE 21:10:04.024 [pool-3-thread-45] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:04.110
+!MESSAGE 21:10:04.024 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:04.526
+!MESSAGE 21:10:04.475 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:04.540
+!MESSAGE 21:10:04.538 [pool-3-thread-45] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:05.051
+!MESSAGE 21:10:05.050 [pool-3-thread-45] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:05.058
+!MESSAGE 21:10:05.057 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:05.211
+!MESSAGE 21:10:05.061 [pool-3-thread-45] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:05.213
+!MESSAGE 21:10:05.196 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:05.574
+!MESSAGE 21:10:05.573 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:05.579
+!MESSAGE 21:10:05.579 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:05.584
+!MESSAGE 21:10:05.581 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:07.036
+!MESSAGE 21:10:05.723 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:07.038
+!MESSAGE 21:10:07.036 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 27
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:07.113
+!MESSAGE 21:10:07.106 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:07.118
+!MESSAGE 21:10:07.117 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:07.542
+!MESSAGE 21:10:07.541 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:07.733
+!MESSAGE 21:10:07.543 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:07.740
+!MESSAGE 21:10:07.739 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:07.742
+!MESSAGE 21:10:07.742 [pool-3-thread-45] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:08.231
+!MESSAGE 21:10:08.223 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:08.232
+!MESSAGE 21:10:08.230 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:08.983
+!MESSAGE 21:10:08.982 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 32
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.314
+!MESSAGE 21:10:09.312 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.488
+!MESSAGE 21:10:09.488 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.823
+!MESSAGE 21:10:09.816 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.826
+!MESSAGE p(LocalCache.java:3467)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.827
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.postWriteCleanup(LocalCache.java:3443)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.828
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.remove(LocalCache.java:3077)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.828
+!MESSAGE 	at com.google.common.cache.LocalCache.remove(LocalCache.java:4251)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.828
+!MESSAGE 	at com.google.common.cache.LocalCache$LocalManualCache.invalidate(LocalCache.java:4891)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.829
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.invalidateCuForJavaFile(CompilationUnitCache.java:383)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.829
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.lambda$new$0(CompilationUnitCache.java:130)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.830
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ListenerList.fire(ListenerList.java:29)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.830
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleTextDocumentService.didChange(SimpleTextDocumentService.java:210)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.831
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.831
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.832
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.833
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.833
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.833
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.834
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.834
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.835
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.835
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.835
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.836
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.836
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.836
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.837
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.838
+!MESSAGE Caused by: java.util.concurrent.CancellationException: null
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.838
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2552)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:09.839
+!MESSAGE 	... 26 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:10.342
+!MESSAGE 21:10:10.338 [pool-3-thread-45] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:10:10.343
+!MESSAGE 21:10:10.343 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
