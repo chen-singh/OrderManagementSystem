@@ -1763,3 +1763,60 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.lsp4e 4 0 2026-07-14 20:55:27.133
 !MESSAGE 20:55:27.132 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Users.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:04:36.870
+!MESSAGE 21:04:36.868 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Users.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:04:36.911
+!MESSAGE 21:04:36.910 [pool-5-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Users.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:04:36.918
+!MESSAGE 21:04:36.917 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Users.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:04:54.183
+!MESSAGE 21:04:54.181 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - scan java files, AST parse, chunk 0 for files: 1
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:04:54.655
+!MESSAGE 21:04:54.433 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Finished scanning affected files [C:\Users\PMLS\Desktop\RealProjects\WhatsAppOrderManagementSystem\src\main\java\in\cs\main\entities\Product.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:04:54.761
+!MESSAGE 21:04:54.759 [pool-3-thread-38] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Users.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:04:54.766
+!MESSAGE 21:04:54.764 [pool-3-thread-38] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Users.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-07-14 21:04:54.834
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-07-14 21:04:54.835
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-07-14 21:04:54.836
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-07-14 21:04:54.836
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:04:54.839
+!MESSAGE 21:04:54.839 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 1
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:04:54.853
+!MESSAGE 21:04:54.844 [pool-5-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:04:54.858
+!MESSAGE 21:04:54.857 [pool-3-thread-38] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:04:54.969
+!MESSAGE 21:04:54.874 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/target/classes/application.properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:04:54.975
+!MESSAGE 21:04:54.974 [pool-3-thread-39] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:04:55.421
+!MESSAGE 21:04:55.346 [pool-5-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:04:55.992
+!MESSAGE 21:04:55.423 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-14 21:04:55.996
+!MESSAGE 21:04:55.993 [pool-3-thread-39] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
