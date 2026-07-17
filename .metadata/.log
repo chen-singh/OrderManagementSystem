@@ -6016,3 +6016,60 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:38:14.317
 !MESSAGE 19:38:14.311 [pool-3-thread-30] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 21:34:11.866
+!MESSAGE 21:34:11.784 [pool-5-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 21:34:11.869
+!MESSAGE 21:34:11.863 [pool-3-thread-33] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 21:34:13.754
+!MESSAGE 21:34:13.747 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 21:34:13.943
+!MESSAGE 21:34:13.925 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/target/classes/in/cs/main/service/DelieveryService.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 21:34:13.960
+!MESSAGE 21:34:13.949 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/controller/Productcontroller.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 21:34:14.027
+!MESSAGE 21:34:13.971 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-07-17 21:34:14.231
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-07-17 21:34:14.232
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-07-17 21:34:14.233
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-07-17 21:34:14.234
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 21:34:14.266
+!MESSAGE 21:34:14.253 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Finished scanning affected files [C:\Users\PMLS\Desktop\RealProjects\WhatsAppOrderManagementSystem\src\main\java\in\cs\main\controller\AuthController.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 21:34:14.272
+!MESSAGE 21:34:14.271 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/target/classes/application.properties, file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/target/classes/in/cs/main/controller/AuthController.class, file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/target/classes/in/cs/main/controller/Productcontroller.class, file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/target/classes/in/cs/main/service/UserService.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 21:34:14.344
+!MESSAGE 21:34:14.343 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Start scanning affected files for types [in.cs.main.service.UserService]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 21:34:14.369
+!MESSAGE 21:34:14.369 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/controller/AuthController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 21:34:14.394
+!MESSAGE 21:34:14.388 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 21:34:14.405
+!MESSAGE 21:34:14.404 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/repository/CustomerRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 21:34:14.441
+!MESSAGE 21:34:14.440 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Closed: file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 21:34:14.477
+!MESSAGE 21:34:14.476 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Closed: file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/entities/Customer.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 21:34:14.511
+!MESSAGE 21:34:14.493 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Closed: file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/UserService.java
