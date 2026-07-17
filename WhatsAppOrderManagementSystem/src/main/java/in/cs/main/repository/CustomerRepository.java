@@ -1,4 +1,4 @@
-package in.cs.main.repository;
+ package in.cs.main.repository;
 
 public interface CustomerRepository {
 
