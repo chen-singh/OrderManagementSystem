@@ -5959,3 +5959,60 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:25:17.338
 !MESSAGE 19:25:17.338 [pool-3-thread-24] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/OrderService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:28:54.062
+!MESSAGE 19:25:17.340 [pool-5-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/OrderService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:28:54.063
+!MESSAGE 19:28:54.058 [pool-3-thread-28] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:28:55.389
+!MESSAGE 19:28:54.355 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:28:55.391
+!MESSAGE 19:28:54.357 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:28:55.906
+!MESSAGE 19:28:55.396 [pool-5-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:28:55.907
+!MESSAGE 19:28:55.899 [pool-3-thread-28] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:28:56.418
+!MESSAGE 19:28:56.418 [pool-3-thread-29] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:28:56.661
+!MESSAGE 19:28:56.466 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:28:56.920
+!MESSAGE 19:28:56.919 [pool-3-thread-28] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:28:57.427
+!MESSAGE 19:28:56.923 [pool-3-thread-28] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:28:57.438
+!MESSAGE 19:28:57.437 [pool-3-thread-29] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:28:57.439
+!MESSAGE 19:28:57.437 [pool-3-thread-29] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:28:57.625
+!MESSAGE 19:28:57.624 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:28:57.626
+!MESSAGE 19:28:57.624 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:29:01.785
+!MESSAGE 19:29:01.784 [pool-5-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:29:01.791
+!MESSAGE 19:29:01.789 [pool-3-thread-28] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:38:14.298
+!MESSAGE 19:29:02.233 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:38:14.316
+!MESSAGE 19:38:14.311 [pool-5-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-07-17 19:38:14.317
+!MESSAGE 19:38:14.311 [pool-3-thread-30] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/WhatsAppOrderManagementSystem/src/main/java/in/cs/main/service/DelieveryService.java
