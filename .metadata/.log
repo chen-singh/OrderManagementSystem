@@ -6400,3 +6400,165 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was
 
 !ENTRY org.eclipse.lsp4e 4 0 2026-09-06 09:45:11.161
 !MESSAGE 09:45:11.159 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:37.812
+!MESSAGE 10:15:37.546 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - scan java files, AST parse, chunk 0 for files: 1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-06 10:15:37.896
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-06 10:15:37.897
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-06 10:15:37.899
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-06 10:15:37.900
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:37.910
+!MESSAGE 10:15:37.892 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:37.913
+!MESSAGE 10:15:37.913 [pool-3-thread-51] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:37.933
+!MESSAGE 10:15:37.932 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/target/classes/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:37.964
+!MESSAGE 10:15:37.963 [pool-5-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:38.043
+!MESSAGE 10:15:38.042 [pool-3-thread-51] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:38.101
+!MESSAGE 10:15:38.099 [pool-5-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:38.109
+!MESSAGE 10:15:38.108 [pool-3-thread-51] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:38.125
+!MESSAGE 10:15:38.110 [pool-3-thread-53] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:38.129
+!MESSAGE 10:15:38.128 [pool-5-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/dao/UserDao.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:38.130
+!MESSAGE 10:15:38.128 [pool-5-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/dao/UserDao.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:38.401
+!MESSAGE 10:15:38.400 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:39.128
+!MESSAGE 10:15:39.128 [pool-3-thread-53] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:44.471
+!MESSAGE 10:15:44.437 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:44.471
+!MESSAGE 10:15:44.468 [pool-3-thread-53] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:44.965
+!MESSAGE 10:15:44.957 [pool-5-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:44.967
+!MESSAGE 10:15:44.964 [pool-3-thread-51] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:44.967
+!MESSAGE 10:15:44.964 [pool-3-thread-51] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:45.480
+!MESSAGE 10:15:45.477 [pool-3-thread-51] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:45.805
+!MESSAGE 10:15:45.804 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:45.805
+!MESSAGE 10:15:45.804 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:46.155
+!MESSAGE 10:15:46.153 [pool-3-thread-53] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:47.120
+!MESSAGE 10:15:46.834 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:47.277
+!MESSAGE 10:15:47.277 [pool-3-thread-51] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:47.793
+!MESSAGE 10:15:47.792 [pool-3-thread-53] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:48.419
+!MESSAGE 10:15:47.946 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:48.593
+!MESSAGE 10:15:48.590 [pool-5-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:49.090
+!MESSAGE 10:15:49.086 [pool-3-thread-51] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:49.091
+!MESSAGE 10:15:49.089 [pool-3-thread-51] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:49.096
+!MESSAGE 10:15:49.095 [pool-3-thread-51] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:49.591
+!MESSAGE 10:15:49.336 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:49.596
+!MESSAGE 10:15:49.595 [pool-3-thread-53] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:49.596
+!MESSAGE 10:15:49.595 [pool-3-thread-53] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-06 10:15:51.755
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-06 10:15:51.756
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-06 10:15:51.756
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-06 10:15:51.756
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:51.773
+!MESSAGE 10:15:50.434 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:51.774
+!MESSAGE 10:15:51.137 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Finished scanning affected files [C:\Users\PMLS\Desktop\RealProjects\OnlineBankingSystem-1\src\main\java\in\cs\main\repository\UserRepository.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:15:52.283
+!MESSAGE 10:15:52.281 [pool-3-thread-53] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:16:01.080
+!MESSAGE 10:16:01.079 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:16:01.217
+!MESSAGE 10:16:01.216 [pool-5-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:16:01.224
+!MESSAGE 10:16:01.219 [pool-3-thread-53] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:16:08.814
+!MESSAGE 10:16:01.225 [pool-3-thread-51] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:16:08.815
+!MESSAGE 10:16:01.741 [pool-3-thread-53] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-06 10:16:09.009
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-06 10:16:09.010
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-06 10:16:09.011
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-06 10:16:09.011
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-06 10:16:09.036
+!MESSAGE 10:16:08.859 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Finished scanning affected files [C:\Users\PMLS\Desktop\RealProjects\OnlineBankingSystem-1\src\main\java\in\cs\main\repository\UserRepository.java]
