@@ -3356,3 +3356,1629 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.jdt.core.IClasspathEn
 
 !ENTRY org.eclipse.lsp4e 4 0 2026-09-07 19:49:07.161
 !MESSAGE 19:49:07.158 [pool-3-thread-21] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:03:59.762
+!MESSAGE 20:03:59.613 [pool-5-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:08.263
+!MESSAGE 20:07:08.260 [pool-3-thread-25] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:08.291
+!MESSAGE 20:07:08.290 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:08.300
+!MESSAGE 20:07:08.299 [pool-3-thread-26] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:25.650
+!MESSAGE 20:07:25.650 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 1
+
+!ENTRY org.eclipse.jface 2 0 2026-09-07 20:07:26.079
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2026-09-07 20:07:26.079
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolInWorkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolInWorkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:26.348
+!MESSAGE 20:07:26.169 [Reconciler-1] INFO  o.s.i.v.b.m.SpringPropertiesIndexManager - Indexing Spring Boot Properties for OnlineBankingSystem-1
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:28.720
+!MESSAGE 20:07:28.719 [pool-3-thread-25] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:28.942
+!MESSAGE 20:07:28.941 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: server.address
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:28.973
+!MESSAGE 20:07:28.973 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:29.243
+!MESSAGE 20:07:29.239 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 4
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:29.545
+!MESSAGE 20:07:29.251 [pool-3-thread-25] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:33.004
+!MESSAGE 20:07:32.947 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:33.023
+!MESSAGE 20:07:33.016 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:33.023
+!MESSAGE 20:07:33.016 [pool-3-thread-26] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:33.024
+!MESSAGE 20:07:33.016 [pool-3-thread-26] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:33.137
+!MESSAGE 20:07:33.136 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.aop.auto
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:33.478
+!MESSAGE 20:07:33.318 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:34.944
+!MESSAGE 20:07:34.943 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.aop.auto
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:37.533
+!MESSAGE 20:07:37.501 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:37.628
+!MESSAGE 20:07:37.627 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.data.jpa.repositories.bootstrap-mode
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:37.628
+!MESSAGE 20:07:37.627 [pool-3-thread-27] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.data.jpa.repositories.bootstrap-mode
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:44.012
+!MESSAGE 20:07:44.011 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.dao.exceptiontranslation.enabled
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:44.073
+!MESSAGE 20:07:44.072 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 11
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:44.075
+!MESSAGE 20:07:44.072 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:44.177
+!MESSAGE 20:07:44.082 [pool-3-thread-27] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:44.178
+!MESSAGE 20:07:44.082 [pool-3-thread-27] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:44.262
+!MESSAGE 20:07:44.261 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:44.270
+!MESSAGE 20:07:44.269 [pool-3-thread-27] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:48.939
+!MESSAGE 20:07:44.370 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.data.jpa.repositories.bootstrap-mode
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:55.813
+!MESSAGE 20:07:55.811 [pool-3-thread-25] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.access-to-underlying-connection-allowed
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:56.098
+!MESSAGE 20:07:56.097 [pool-3-thread-25] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.auto-commit-on-return
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:56.337
+!MESSAGE 20:07:56.336 [pool-3-thread-25] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:56.761
+!MESSAGE 20:07:56.551 [pool-3-thread-25] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:57.340
+!MESSAGE 20:07:57.339 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.default-auto-commit
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:58.038
+!MESSAGE 20:07:58.037 [pool-3-thread-25] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.default-schema
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:58.793
+!MESSAGE 20:07:58.333 [pool-3-thread-25] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.default-transaction-isolation
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:07:59.628
+!MESSAGE 20:07:59.430 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.eviction-policy-class-name
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:00.529
+!MESSAGE 20:08:00.099 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:00.530
+!MESSAGE 20:08:00.528 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.log-abandoned
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:00.993
+!MESSAGE 20:08:00.992 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.login-timeout
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:01.463
+!MESSAGE 20:08:01.227 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.max-idle
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:01.900
+!MESSAGE 20:08:01.898 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.min-idle
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:02.383
+!MESSAGE 20:08:02.126 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.num-tests-per-eviction-run
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:02.872
+!MESSAGE 20:08:02.619 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:03.569
+!MESSAGE 20:08:03.354 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.rollback-on-return
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:04.005
+!MESSAGE 20:08:04.004 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.test-on-return
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:04.187
+!MESSAGE 20:08:04.187 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.test-while-idle
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:04.429
+!MESSAGE 20:08:04.428 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.url
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:04.905
+!MESSAGE 20:08:04.661 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:04.906
+!MESSAGE 20:08:04.904 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:07.767
+!MESSAGE 20:08:07.723 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.embedded-database-connection
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:08.248
+!MESSAGE 20:08:08.247 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.hikari.allow-pool-suspension
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:09.894
+!MESSAGE 20:08:09.893 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.hikari.catalog
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:10.110
+!MESSAGE 20:08:10.108 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.hikari.connection-init-sql
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:10.273
+!MESSAGE 20:08:10.272 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.hikari.connection-test-query
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:11.066
+!MESSAGE 20:08:10.458 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.hikari.connection-timeout
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:11.682
+!MESSAGE 20:08:11.282 [pool-3-thread-27] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.hikari.data-source-properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:12.092
+!MESSAGE 20:08:11.895 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:12.332
+!MESSAGE 20:08:12.331 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.hikari.initialization-fail-timeout
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:12.526
+!MESSAGE 20:08:12.525 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:12.907
+!MESSAGE 20:08:12.906 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.hikari.keepalive-time
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:13.150
+!MESSAGE 20:08:13.149 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.hikari.leak-detection-threshold
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:13.372
+!MESSAGE 20:08:13.372 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.hikari.login-timeout
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:13.939
+!MESSAGE 20:08:13.798 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.hikari.maximum-pool-size
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:13.941
+!MESSAGE 20:08:13.931 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.hikari.minimum-idle
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:15.316
+!MESSAGE 20:08:15.315 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.hikari.read-only
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:15.950
+!MESSAGE 20:08:15.501 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.hikari.register-mbeans
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:18.261
+!MESSAGE 20:08:18.253 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.oracleucp.abandoned-connection-timeout
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:21.392
+!MESSAGE 20:08:21.082 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:21.615
+!MESSAGE 20:08:21.613 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.oracleucp.connection-harvest-trigger-count
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:21.808
+!MESSAGE 20:08:21.807 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.oracleucp.connection-labeling-high-cost
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:22.202
+!MESSAGE 20:08:21.994 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:22.817
+!MESSAGE 20:08:22.405 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.oracleucp.connection-repurpose-threshold
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:22.999
+!MESSAGE 20:08:22.999 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:23.567
+!MESSAGE 20:08:23.198 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.oracleucp.create-connection-in-borrow-thread
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:23.567
+!MESSAGE 20:08:23.565 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:23.891
+!MESSAGE 20:08:23.758 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:23.893
+!MESSAGE 20:08:23.892 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.oracleucp.fast-connection-failover-enabled
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:24.814
+!MESSAGE 20:08:23.894 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:25.014
+!MESSAGE 20:08:25.014 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.oracleucp.login-timeout
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:25.545
+!MESSAGE 20:08:25.543 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.oracleucp.max-connection-reuse-time
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:25.913
+!MESSAGE 20:08:25.912 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.oracleucp.max-idle-time
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:26.319
+!MESSAGE 20:08:26.318 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.oracleucp.max-statements
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:26.686
+!MESSAGE 20:08:26.684 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.oracleucp.min-pool-size
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:26.881
+!MESSAGE 20:08:26.879 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.oracleucp.network-protocol
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:27.172
+!MESSAGE 20:08:27.171 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:29.003
+!MESSAGE 20:08:29.002 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.oracleucp.property-cycle
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:29.828
+!MESSAGE 20:08:29.448 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.oracleucp.read-only-instance-allowed
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:29.830
+!MESSAGE 20:08:29.643 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:30.220
+!MESSAGE 20:08:30.218 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.oracleucp.server-name
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:30.479
+!MESSAGE 20:08:30.478 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.oracleucp.sharding-mode
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:30.673
+!MESSAGE 20:08:30.672 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.oracleucp.time-to-live-connection-timeout
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:31.504
+!MESSAGE 20:08:31.503 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:31.707
+!MESSAGE 20:08:31.705 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.oracleucp.u-r-l
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:33.494
+!MESSAGE 20:08:33.040 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:33.919
+!MESSAGE 20:08:33.918 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.access-to-underlying-connection-allowed
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:37.695
+!MESSAGE 20:08:37.431 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.abandon-when-percentage-full
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:43.078
+!MESSAGE 20:08:43.078 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.abandon-when-percentage-full
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:43.331
+!MESSAGE 20:08:43.330 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.access-to-underlying-connection-allowed
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:43.791
+!MESSAGE 20:08:43.790 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.tomcat.commit-on-return
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:44.440
+!MESSAGE 20:08:44.439 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:45.417
+!MESSAGE 20:08:44.717 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.data-source-j-n-d-i
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:46.028
+!MESSAGE 20:08:46.026 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.default-catalog
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:52.472
+!MESSAGE 20:08:46.410 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.default-read-only
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:52.473
+!MESSAGE 20:08:51.028 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:52.699
+!MESSAGE 20:08:52.699 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.jmx-enabled
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:53.559
+!MESSAGE 20:08:53.558 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.login-timeout
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:54.454
+!MESSAGE 20:08:53.779 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.max-active
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:54.455
+!MESSAGE 20:08:53.999 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.max-age
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:54.456
+!MESSAGE 20:08:54.238 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:55.729
+!MESSAGE 20:08:55.298 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.min-evictable-idle-time-millis
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:55.730
+!MESSAGE 20:08:55.728 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.tomcat.name
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:57.576
+!MESSAGE 20:08:57.575 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:57.764
+!MESSAGE 20:08:57.764 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:58.099
+!MESSAGE 20:08:58.097 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.tomcat.propagate-interrupt-state
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:58.521
+!MESSAGE 20:08:58.519 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.remove-abandoned-timeout
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:58.723
+!MESSAGE 20:08:58.723 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.rollback-on-return
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:58.928
+!MESSAGE 20:08:58.926 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.suspect-timeout
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:59.096
+!MESSAGE 20:08:59.095 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.test-on-borrow
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:08:59.354
+!MESSAGE 20:08:59.096 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:00.116
+!MESSAGE 20:08:59.531 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.test-on-return
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:00.546
+!MESSAGE 20:09:00.544 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.tomcat.use-equals
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:00.955
+!MESSAGE 20:09:00.780 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:01.158
+!MESSAGE 20:09:01.156 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.username
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:01.376
+!MESSAGE 20:09:01.375 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.validation-interval
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:02.440
+!MESSAGE 20:09:01.634 [pool-3-thread-26] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.tomcat.validation-query
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:02.445
+!MESSAGE 20:09:02.435 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.url
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-09-07 20:09:02.752
+!MESSAGE Could not resolve completion items due to timeout after 500 milliseconds in `completionItem/resolve`
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:02.848
+!MESSAGE 20:09:02.612 [pool-3-thread-28] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.username
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-09-07 20:09:02.934
+!MESSAGE Could not resolve completion items due to timeout after 500 milliseconds in `completionItem/resolve`
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-09-07 20:09:03.111
+!MESSAGE Could not resolve completion items due to timeout after 500 milliseconds in `completionItem/resolve`
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-09-07 20:09:03.347
+!MESSAGE Could not resolve completion items due to timeout after 500 milliseconds in `completionItem/resolve`
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:03.591
+!MESSAGE 20:09:03.590 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.username
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:03.834
+!MESSAGE 20:09:03.790 [pool-3-thread-28] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:06.792
+!MESSAGE 20:09:06.789 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.username
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:07.079
+!MESSAGE 20:09:07.077 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.xa.data-source-class-name
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:09.009
+!MESSAGE 20:09:09.008 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.xa.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:09.433
+!MESSAGE 20:09:09.431 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.data
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:09.434
+!MESSAGE 20:09:09.431 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.data
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:09.654
+!MESSAGE 20:09:09.654 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:10.939
+!MESSAGE 20:09:10.063 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.default-query-timeout
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:10.939
+!MESSAGE 20:09:10.938 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.max-conn-lifetime-millis
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:11.325
+!MESSAGE 20:09:11.325 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.max-wait-millis
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:11.553
+!MESSAGE 20:09:11.552 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.min-evictable-idle-time-millis
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:12.011
+!MESSAGE 20:09:12.010 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.remove-abandoned-timeout
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:13.317
+!MESSAGE 20:09:12.257 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.soft-min-evictable-idle-time-millis
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:13.317
+!MESSAGE 20:09:13.316 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:13.528
+!MESSAGE 20:09:13.527 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.jmx-enabled
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:14.091
+!MESSAGE 20:09:14.090 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.oracleucp.connection-wait-timeout
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:14.291
+!MESSAGE 20:09:14.291 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.platform
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:15.455
+!MESSAGE 20:09:14.580 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.schema
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:15.780
+!MESSAGE 20:09:15.779 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:16.029
+!MESSAGE 20:09:16.007 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.test.database.replace
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:18.954
+!MESSAGE 20:09:17.930 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.mvc.dispatch-trace-request
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:18.956
+!MESSAGE 20:09:18.952 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.jpa.hibernate.use-new-id-generator-mappings
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:22.028
+!MESSAGE 20:09:19.455 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.jdbc.template.results-map-case-insensitive
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:22.714
+!MESSAGE 20:09:22.449 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:22.715
+!MESSAGE 20:09:22.714 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.data.web.sort.sort-parameter
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:24.740
+!MESSAGE 20:09:24.739 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.jpa.defer-datasource-initialization
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:25.376
+!MESSAGE 20:09:25.021 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.data.jpa.repositories.enabled
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:26.016
+!MESSAGE 20:09:26.015 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.data.jpa.repositories.enabled
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:27.244
+!MESSAGE 20:09:27.243 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.data.web.pageable.serialization-mode
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:27.474
+!MESSAGE 20:09:27.474 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:27.625
+!MESSAGE 20:09:27.624 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:29.343
+!MESSAGE 20:09:27.806 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.data.web.pageable.default-page-size
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:29.345
+!MESSAGE 20:09:29.341 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.data.web.pageable.one-indexed-parameters
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:29.903
+!MESSAGE 20:09:29.903 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.jdbc.template.max-rows
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:30.252
+!MESSAGE 20:09:30.252 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.jdbc.template.ignore-warnings
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:34.445
+!MESSAGE 20:09:34.442 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:34.646
+!MESSAGE 20:09:34.643 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:35.086
+!MESSAGE 20:09:34.724 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:35.102
+!MESSAGE 20:09:35.088 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:35.369
+!MESSAGE 20:09:35.368 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:35.369
+!MESSAGE 20:09:35.368 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:35.444
+!MESSAGE 20:09:35.443 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:35.639
+!MESSAGE 20:09:35.627 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:37.383
+!MESSAGE 20:09:35.716 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:38.018
+!MESSAGE 20:09:37.843 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:38.026
+!MESSAGE 20:09:38.025 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:41.872
+!MESSAGE 20:09:41.869 [pool-3-thread-29] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:44.157
+!MESSAGE 20:09:43.776 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:44.157
+!MESSAGE 20:09:43.784 [pool-3-thread-29] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 181 completions in 8ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:44.233
+!MESSAGE 20:09:44.232 [pool-3-thread-29] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.cache-state
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:44.287
+!MESSAGE 20:09:44.286 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:44.370
+!MESSAGE 20:09:44.295 [pool-3-thread-29] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:44.370
+!MESSAGE 20:09:44.369 [pool-3-thread-29] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.test-while-idle
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:46.402
+!MESSAGE 20:09:45.295 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:46.402
+!MESSAGE 20:09:45.295 [pool-3-thread-29] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:46.411
+!MESSAGE 20:09:46.410 [pool-3-thread-29] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:46.503
+!MESSAGE 20:09:46.502 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.test-while-idle
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:46.757
+!MESSAGE 20:09:46.753 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:46.758
+!MESSAGE 20:09:46.757 [pool-3-thread-29] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:46.758
+!MESSAGE 20:09:46.757 [pool-3-thread-29] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:47.074
+!MESSAGE 20:09:46.759 [pool-3-thread-29] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 18 completions in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:47.165
+!MESSAGE 20:09:47.081 [pool-3-thread-29] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:47.166
+!MESSAGE 20:09:47.165 [pool-3-thread-29] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:47.373
+!MESSAGE 20:09:47.372 [pool-3-thread-29] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:48.279
+!MESSAGE 20:09:48.278 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:48.280
+!MESSAGE 20:09:48.278 [pool-3-thread-29] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:48.418
+!MESSAGE 20:09:48.417 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:48.423
+!MESSAGE 20:09:48.423 [pool-3-thread-29] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:48.511
+!MESSAGE 20:09:48.511 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.hikari.allow-pool-suspension
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:50.702
+!MESSAGE 20:09:50.679 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:50.703
+!MESSAGE 20:09:50.702 [pool-3-thread-29] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:50.782
+!MESSAGE 20:09:50.781 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.hikari.jdbc-url
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:53.855
+!MESSAGE 20:09:53.855 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:53.877
+!MESSAGE 20:09:53.877 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:53.964
+!MESSAGE 20:09:53.964 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.hikari.allow-pool-suspension
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:54.163
+!MESSAGE 20:09:54.161 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:54.246
+!MESSAGE 20:09:54.171 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:54.247
+!MESSAGE 20:09:54.171 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:54.410
+!MESSAGE 20:09:54.410 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:55.751
+!MESSAGE 20:09:54.485 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:55.787
+!MESSAGE 20:09:55.787 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:55.829
+!MESSAGE 20:09:55.829 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 39
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:55.830
+!MESSAGE 20:09:55.829 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:55.905
+!MESSAGE 20:09:55.837 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:55.906
+!MESSAGE 20:09:55.837 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:57.712
+!MESSAGE 20:09:57.545 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:57.712
+!MESSAGE 20:09:57.549 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 8 completions in 4ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:57.721
+!MESSAGE 20:09:57.719 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:09:57.721
+!MESSAGE 20:09:57.719 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:33.602
+!MESSAGE 20:10:33.570 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:33.684
+!MESSAGE 20:10:33.684 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:36.164
+!MESSAGE 20:10:33.968 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:36.165
+!MESSAGE 20:10:34.042 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:36.165
+!MESSAGE 20:10:36.164 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 44
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:36.184
+!MESSAGE 20:10:36.184 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:36.925
+!MESSAGE 20:10:36.273 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:36.926
+!MESSAGE 20:10:36.924 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 45
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:37.084
+!MESSAGE 20:10:37.083 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:51.233
+!MESSAGE 20:10:51.231 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:51.253
+!MESSAGE 20:10:51.252 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:51.334
+!MESSAGE 20:10:51.333 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.jmx-name
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:52.158
+!MESSAGE 20:10:52.158 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:56.550
+!MESSAGE 20:10:56.155 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.jmx-name
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:57.260
+!MESSAGE 20:10:56.551 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:57.261
+!MESSAGE 20:10:57.256 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 50
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:57.286
+!MESSAGE 20:10:57.285 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:57.444
+!MESSAGE 20:10:57.442 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.schema
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:10:58.382
+!MESSAGE 20:10:58.353 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:06.230
+!MESSAGE 20:10:58.666 [pool-3-thread-31] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:06.256
+!MESSAGE 20:11:06.255 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:06.343
+!MESSAGE 20:11:06.342 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.sql-script-encoding
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:06.457
+!MESSAGE 20:11:06.451 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:07.482
+!MESSAGE 20:11:07.481 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:09.467
+!MESSAGE 20:11:07.569 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:09.467
+!MESSAGE 20:11:09.466 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:09.557
+!MESSAGE 20:11:09.467 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:09.712
+!MESSAGE 20:11:09.712 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:09.793
+!MESSAGE 20:11:09.792 [pool-3-thread-31] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:12.036
+!MESSAGE 20:11:11.998 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:14.542
+!MESSAGE 20:11:14.541 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:15.764
+!MESSAGE 20:11:15.764 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:15.856
+!MESSAGE 20:11:15.856 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.url
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:23.279
+!MESSAGE 20:11:18.338 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.username
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:23.491
+!MESSAGE 20:11:23.281 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:23.690
+!MESSAGE 20:11:23.500 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:23.691
+!MESSAGE 20:11:23.500 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:23.853
+!MESSAGE 20:11:23.852 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:23.853
+!MESSAGE 20:11:23.852 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:26.499
+!MESSAGE 20:11:26.499 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:26.499
+!MESSAGE 20:11:26.499 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:26.499
+!MESSAGE 20:11:26.499 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:26.500
+!MESSAGE 20:11:26.500 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:26.505
+!MESSAGE 20:11:26.505 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 667 completions in 6ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:26.580
+!MESSAGE 20:11:26.579 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: server.address
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:26.633
+!MESSAGE 20:11:26.631 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:26.639
+!MESSAGE 20:11:26.639 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:26.720
+!MESSAGE 20:11:26.719 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.aop.auto
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:27.345
+!MESSAGE 20:11:27.343 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:27.368
+!MESSAGE 20:11:27.367 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:27.487
+!MESSAGE 20:11:27.486 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 71
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:27.520
+!MESSAGE 20:11:27.496 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.aop.auto
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:27.521
+!MESSAGE 20:11:27.509 [pool-3-thread-30] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:27.716
+!MESSAGE 20:11:27.715 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:27.793
+!MESSAGE 20:11:27.792 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.aop.auto
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:27.794
+!MESSAGE 20:11:27.792 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.aop.auto
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:27.794
+!MESSAGE 20:11:27.793 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:32.069
+!MESSAGE 20:11:32.069 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:32.188
+!MESSAGE 20:11:32.186 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.aop.auto
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:33.288
+!MESSAGE 20:11:33.257 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:33.533
+!MESSAGE 20:11:33.521 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:33.732
+!MESSAGE 20:11:33.620 [pool-3-thread-32] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.data.jpa.repositories.bootstrap-mode
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:33.742
+!MESSAGE 20:11:33.737 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:33.742
+!MESSAGE 20:11:33.737 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:33.743
+!MESSAGE 20:11:33.737 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:34.695
+!MESSAGE 20:11:33.820 [pool-3-thread-32] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.dao.exceptiontranslation.enabled
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:34.696
+!MESSAGE 20:11:34.657 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:36.978
+!MESSAGE 20:11:34.868 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 241 completions in 6ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:37.131
+!MESSAGE 20:11:37.022 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:37.131
+!MESSAGE 20:11:37.022 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:37.697
+!MESSAGE 20:11:37.692 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:37.953
+!MESSAGE 20:11:37.818 [pool-3-thread-31] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:37.970
+!MESSAGE 20:11:37.967 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:38.407
+!MESSAGE 20:11:38.275 [pool-3-thread-31] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:38.407
+!MESSAGE 20:11:38.407 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:38.486
+!MESSAGE 20:11:38.485 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:38.650
+!MESSAGE 20:11:38.639 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:38.739
+!MESSAGE 20:11:38.738 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:39.703
+!MESSAGE 20:11:39.694 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:41.153
+!MESSAGE 20:11:41.153 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:41.236
+!MESSAGE 20:11:41.236 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.url
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:41.483
+!MESSAGE 20:11:41.483 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:43.106
+!MESSAGE 20:11:43.105 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 89
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:48.230
+!MESSAGE 20:11:43.114 [pool-3-thread-31] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.url
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:48.290
+!MESSAGE 20:11:48.289 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 97
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:48.319
+!MESSAGE 20:11:48.318 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:48.353
+!MESSAGE 20:11:48.352 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:48.382
+!MESSAGE 20:11:48.381 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:48.412
+!MESSAGE 20:11:48.410 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 101
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:48.413
+!MESSAGE 20:11:48.410 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:48.441
+!MESSAGE 20:11:48.440 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:48.501
+!MESSAGE 20:11:48.500 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 104
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:48.502
+!MESSAGE 20:11:48.500 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:48.563
+!MESSAGE 20:11:48.530 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:49.725
+!MESSAGE 20:11:49.725 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 111
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:50.639
+!MESSAGE 20:11:50.638 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 112
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:50.640
+!MESSAGE 20:11:50.638 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:50.641
+!MESSAGE 20:11:50.639 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:50.652
+!MESSAGE 20:11:50.647 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:50.653
+!MESSAGE 20:11:50.648 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:50.724
+!MESSAGE 20:11:50.723 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: server.address
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:50.725
+!MESSAGE 20:11:50.725 [pool-3-thread-31] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting server.address
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:50.787
+!MESSAGE 20:11:50.786 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 113
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:50.800
+!MESSAGE 20:11:50.796 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:50.801
+!MESSAGE 20:11:50.796 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:51.160
+!MESSAGE 20:11:51.159 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 114
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:51.165
+!MESSAGE 20:11:51.165 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:51.166
+!MESSAGE 20:11:51.165 [pool-3-thread-31] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:51.250
+!MESSAGE 20:11:51.249 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.aop.auto
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:51.250
+!MESSAGE 20:11:51.249 [pool-3-thread-31] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.aop.auto
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:51.251
+!MESSAGE 20:11:51.249 [pool-3-thread-31] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:51.290
+!MESSAGE 20:11:51.289 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:51.295
+!MESSAGE 20:11:51.294 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:51.486
+!MESSAGE 20:11:51.370 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.aop.auto
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:51.558
+!MESSAGE 20:11:51.556 [pool-3-thread-31] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.aop.auto
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:52.484
+!MESSAGE 20:11:51.722 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.aop.auto
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:52.521
+!MESSAGE 20:11:52.520 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:52.641
+!MESSAGE 20:11:52.641 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.aop.auto
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:53.039
+!MESSAGE 20:11:52.951 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:53.168
+!MESSAGE 20:11:53.168 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:53.247
+!MESSAGE 20:11:53.246 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.dao.exceptiontranslation.enabled
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:53.753
+!MESSAGE 20:11:53.753 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:53.832
+!MESSAGE 20:11:53.831 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.data.jpa.repositories.bootstrap-mode
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:53.984
+!MESSAGE 20:11:53.982 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:54.001
+!MESSAGE 20:11:54.000 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:54.691
+!MESSAGE 20:11:54.092 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.data.jpa.repositories.bootstrap-mode
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:54.707
+!MESSAGE 20:11:54.706 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:54.847
+!MESSAGE 20:11:54.846 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:54.937
+!MESSAGE 20:11:54.928 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:55.345
+!MESSAGE 20:11:55.017 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:55.352
+!MESSAGE 20:11:55.351 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:55.429
+!MESSAGE 20:11:55.428 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:55.588
+!MESSAGE 20:11:55.587 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:55.600
+!MESSAGE 20:11:55.597 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:56.171
+!MESSAGE 20:11:55.684 [pool-3-thread-32] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.type
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:56.178
+!MESSAGE 20:11:56.177 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:56.255
+!MESSAGE 20:11:56.254 [pool-3-thread-32] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:56.393
+!MESSAGE 20:11:56.379 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:56.527
+!MESSAGE 20:11:56.519 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 129
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:56.616
+!MESSAGE 20:11:56.616 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.abandoned-usage-tracking
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:57.221
+!MESSAGE 20:11:56.735 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:57.230
+!MESSAGE 20:11:57.227 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:57.818
+!MESSAGE 20:11:57.817 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:57.818
+!MESSAGE 20:11:57.817 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:57.818
+!MESSAGE 20:11:57.818 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:57.819
+!MESSAGE 20:11:57.818 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:57.892
+!MESSAGE 20:11:57.891 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.password
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:57.991
+!MESSAGE 20:11:57.991 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:57.998
+!MESSAGE 20:11:57.998 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:57.999
+!MESSAGE 20:11:57.998 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:57.999
+!MESSAGE 20:11:57.998 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:57.999
+!MESSAGE 20:11:57.998 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:58.000
+!MESSAGE 20:11:58.000 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 43 completions in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:58.075
+!MESSAGE 20:11:58.074 [pool-3-thread-32] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:11:58.552
+!MESSAGE 20:11:58.551 [pool-3-thread-32] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:04.845
+!MESSAGE 20:12:04.843 [pool-3-thread-32] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.connection-factory-class-name
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:05.077
+!MESSAGE 20:12:05.075 [pool-3-thread-32] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:05.274
+!MESSAGE 20:12:05.272 [pool-3-thread-32] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.max-open-prepared-statements
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:05.471
+!MESSAGE 20:12:05.470 [pool-3-thread-32] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.data-password
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:06.919
+!MESSAGE 20:12:06.022 [pool-3-thread-32] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:06.920
+!MESSAGE 20:12:06.919 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.oracleucp.max-connections-per-shard
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:07.496
+!MESSAGE 20:12:07.321 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.dbcp2.default-transaction-isolation
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:07.917
+!MESSAGE 20:12:07.916 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.datasource.hikari.credentials-provider-class-name
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:08.299
+!MESSAGE 20:12:08.298 [pool-3-thread-32] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.password
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:08.595
+!MESSAGE 20:12:08.594 [pool-3-thread-32] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.dbcp2.eviction-policy-class-name
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:08.596
+!MESSAGE 20:12:08.594 [pool-3-thread-32] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:09.727
+!MESSAGE 20:12:09.269 [pool-3-thread-32] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:09.734
+!MESSAGE 20:12:09.733 [pool-3-thread-32] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.datasource.password
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:11.730
+!MESSAGE 20:12:11.394 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:11.730
+!MESSAGE 20:12:11.412 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:11.731
+!MESSAGE 20:12:11.720 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:11.731
+!MESSAGE 20:12:11.730 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:11.731
+!MESSAGE 20:12:11.730 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:11.731
+!MESSAGE 20:12:11.730 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:12.168
+!MESSAGE 20:12:12.167 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 140
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:12.172
+!MESSAGE 20:12:12.171 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:12.175
+!MESSAGE 20:12:12.175 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:12.176
+!MESSAGE 20:12:12.175 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:12.861
+!MESSAGE 20:12:12.176 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:15.302
+!MESSAGE 20:12:13.133 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:15.302
+!MESSAGE 20:12:13.133 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:15.303
+!MESSAGE 20:12:13.296 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:15.303
+!MESSAGE 20:12:15.302 [pool-3-thread-32] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:12:17.737
+!MESSAGE 20:12:17.737 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 147
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:37.227
+!MESSAGE 20:12:18.531 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:41.252
+!MESSAGE 20:15:41.251 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 155
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:41.727
+!MESSAGE 20:15:41.726 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:42.769
+!MESSAGE 20:15:42.757 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:42.995
+!MESSAGE 20:15:42.977 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:43.611
+!MESSAGE 20:15:43.611 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:43.877
+!MESSAGE 20:15:43.876 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:44.075
+!MESSAGE 20:15:44.062 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 161
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:45.377
+!MESSAGE 20:15:45.375 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:45.550
+!MESSAGE 20:15:45.543 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:45.688
+!MESSAGE 20:15:45.688 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:47.174
+!MESSAGE 20:15:47.172 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 167
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:47.185
+!MESSAGE 20:15:47.185 [pool-3-thread-35] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:47.187
+!MESSAGE 20:15:47.187 [pool-3-thread-35] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:47.534
+!MESSAGE 20:15:47.533 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:50.207
+!MESSAGE 20:15:47.544 [pool-3-thread-35] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:50.220
+!MESSAGE 20:15:50.208 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:51.331
+!MESSAGE 20:15:51.331 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:51.868
+!MESSAGE 20:15:51.867 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 172
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:52.023
+!MESSAGE 20:15:51.874 [pool-3-thread-35] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:15:52.024
+!MESSAGE 20:15:52.024 [pool-3-thread-35] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:16:53.433
+!MESSAGE 20:16:53.433 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/TransactionRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:16:53.487
+!MESSAGE 20:16:53.486 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/TransactionRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:16:53.491
+!MESSAGE 20:16:53.490 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/TransactionRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:02.750
+!MESSAGE 20:17:02.749 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/AccountRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:02.756
+!MESSAGE 20:17:02.753 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/repository/AccountRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:19.087
+!MESSAGE 20:17:19.087 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:19.099
+!MESSAGE 20:17:19.098 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:19.102
+!MESSAGE 20:17:19.102 [pool-3-thread-36] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:19.103
+!MESSAGE 20:17:19.102 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:20.866
+!MESSAGE 20:17:20.866 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:21.801
+!MESSAGE 20:17:21.800 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 4ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:21.982
+!MESSAGE 20:17:21.954 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.161
+!MESSAGE p(LocalCache.java:3467)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.162
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.postWriteCleanup(LocalCache.java:3443)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.162
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.remove(LocalCache.java:3077)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.163
+!MESSAGE 	at com.google.common.cache.LocalCache.remove(LocalCache.java:4251)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.163
+!MESSAGE 	at com.google.common.cache.LocalCache$LocalManualCache.invalidate(LocalCache.java:4891)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.163
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.invalidateCuForJavaFile(CompilationUnitCache.java:383)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.163
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.lambda$new$0(CompilationUnitCache.java:130)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.163
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ListenerList.fire(ListenerList.java:29)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.164
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleTextDocumentService.didChange(SimpleTextDocumentService.java:210)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.164
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.164
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.165
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.165
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.165
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.166
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.166
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.166
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.166
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.166
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.166
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.167
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.167
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.167
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.167
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.167
+!MESSAGE Caused by: java.util.concurrent.CancellationException: null
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.167
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2552)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.167
+!MESSAGE 	... 26 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.168
+!MESSAGE 20:17:21.991 [pool-3-thread-36] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.478
+!MESSAGE 20:17:22.428 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.930
+!MESSAGE 20:17:22.930 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.945
+!MESSAGE 20:17:22.944 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:22.948
+!MESSAGE 20:17:22.948 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:23.426
+!MESSAGE 20:17:23.417 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:23.426
+!MESSAGE 20:17:23.421 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:23.427
+!MESSAGE 20:17:23.425 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:23.630
+!MESSAGE 20:17:23.629 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:23.953
+!MESSAGE 20:17:23.953 [pool-3-thread-36] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:24.132
+!MESSAGE 20:17:24.131 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:24.429
+!MESSAGE 20:17:24.428 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:24.614
+!MESSAGE 20:17:24.614 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:24.621
+!MESSAGE 20:17:24.621 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:24.623
+!MESSAGE 20:17:24.623 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:24.930
+!MESSAGE 20:17:24.929 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:33.217
+!MESSAGE 20:17:33.217 [pool-3-thread-36] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:35.513
+!MESSAGE 20:17:33.218 [pool-3-thread-36] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:35.563
+!MESSAGE 20:17:35.519 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:35.591
+!MESSAGE 20:17:35.588 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file deleted event: [file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:35.605
+!MESSAGE 20:17:35.604 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Closed: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:35.645
+!MESSAGE 20:17:35.625 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Finished scanning affected files [C:\Users\PMLS\Desktop\RealProjects\OnlineBankingSystem-1\src\main\java\in\cs\main\service\AuthService.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:35.654
+!MESSAGE 20:17:35.650 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:35.660
+!MESSAGE 20:17:35.659 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:35.662
+!MESSAGE 20:17:35.661 [pool-3-thread-36] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:35.816
+!MESSAGE 20:17:35.815 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Start scanning affected files for types [in.cs.main.service.UserService]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-07 20:17:35.931
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-07 20:17:35.932
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-07 20:17:35.932
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-07 20:17:35.932
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:36.016
+!MESSAGE 20:17:36.005 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/target/classes/META-INF/maven/in.cs/OnlineBankingSystem-1/pom.properties, file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/target/classes/META-INF/maven/in.cs/OnlineBankingSystem-1/pom.xml, file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/target/classes/application.properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:36.017
+!MESSAGE 20:17:36.012 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file deleted event: [file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/target/classes/in/cs/main/service/AuthService.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:36.217
+!MESSAGE 20:17:36.216 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java done in 68ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:36.511
+!MESSAGE 20:17:36.511 [pool-3-thread-36] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:37.755
+!MESSAGE 20:17:36.513 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:37.755
+!MESSAGE 20:17:36.513 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:37.908
+!MESSAGE 20:17:37.907 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:37.910
+!MESSAGE 20:17:37.909 [pool-3-thread-36] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:38.258
+!MESSAGE 20:17:38.257 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:38.412
+!MESSAGE 20:17:38.410 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:38.918
+!MESSAGE 20:17:38.584 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:38.926
+!MESSAGE 20:17:38.925 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:38.931
+!MESSAGE 20:17:38.930 [pool-3-thread-36] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:39.212
+!MESSAGE 20:17:39.211 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:39.944
+!MESSAGE 20:17:39.449 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:39.944
+!MESSAGE 20:17:39.943 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:39.945
+!MESSAGE 20:17:39.943 [pool-3-thread-36] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:39.945
+!MESSAGE 20:17:39.943 [pool-3-thread-36] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:39.946
+!MESSAGE 20:17:39.945 [pool-3-thread-36] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:40.126
+!MESSAGE 20:17:40.125 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:40.126
+!MESSAGE 20:17:40.126 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:42.184
+!MESSAGE 20:17:42.184 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:42.185
+!MESSAGE 20:17:42.185 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:42.185
+!MESSAGE 20:17:42.185 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:42.185
+!MESSAGE 20:17:42.185 [pool-3-thread-37] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:42.808
+!MESSAGE 20:17:42.807 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:45.028
+!MESSAGE 20:17:45.027 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 11
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:45.068
+!MESSAGE 20:17:45.067 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:45.080
+!MESSAGE 20:17:45.079 [pool-3-thread-36] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:45.546
+!MESSAGE 20:17:45.546 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:47.782
+!MESSAGE 20:17:47.782 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 1
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:47.785
+!MESSAGE 20:17:47.784 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/TransactionService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:47.789
+!MESSAGE 20:17:47.789 [pool-3-thread-36] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/TransactionService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:47.791
+!MESSAGE 20:17:47.791 [pool-3-thread-38] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/TransactionService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:47.870
+!MESSAGE 20:17:47.869 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/TransactionService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:52.084
+!MESSAGE 20:17:52.083 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AccountService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:52.086
+!MESSAGE 20:17:52.086 [pool-3-thread-38] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AccountService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:52.087
+!MESSAGE 20:17:52.087 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AccountService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-07 20:17:52.163
+!MESSAGE 20:17:52.163 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AccountService.java

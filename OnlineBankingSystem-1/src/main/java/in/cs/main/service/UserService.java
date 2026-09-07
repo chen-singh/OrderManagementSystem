@@ -1,5 +1,5 @@
 package in.cs.main.service;
 
-public class AuthService {
+public class UserService {
 
 }
