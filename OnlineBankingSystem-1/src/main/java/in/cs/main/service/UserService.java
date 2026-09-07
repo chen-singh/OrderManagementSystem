@@ -1,5 +1,7 @@
 package in.cs.main.service;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -31,12 +33,28 @@ public class UserService {
                         new RuntimeException("User not found"));
     }
 
-    // Find user by ID
+    
     public Users findById(Integer userId) {
 
         return userrepo.findById(userId)
                 .orElseThrow(() ->
                         new RuntimeException("User not found"));
+    }
+    
+ 
+    public List<Users> getAllUsers() {
+
+        return userrepo.findAll();
+    }
+
+    
+    public void deleteUser(Integer userId) {
+
+        if (!userrepo.existsById(userId)) {
+            throw new RuntimeException("User not found");
+        }
+
+        userrepo.deleteById(userId);
     }
     
 }
