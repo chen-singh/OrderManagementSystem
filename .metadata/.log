@@ -10508,3 +10508,9 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.lsp4e 4 0 2026-09-08 19:48:59.619
 !MESSAGE 19:48:59.436 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/target/classes/META-INF/maven/in.cs/OnlineBankingSystem-1/pom.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-08 19:51:02.458
+!MESSAGE 19:48:59.628 [pool-3-thread-19] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AccountService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-08 19:51:02.684
+!MESSAGE 19:51:02.670 [pool-3-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/PMLS/Desktop/RealProjects/OnlineBankingSystem-1/src/main/java/in/cs/main/service/AccountService.java
