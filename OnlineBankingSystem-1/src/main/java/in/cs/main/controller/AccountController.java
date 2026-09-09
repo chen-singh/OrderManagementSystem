@@ -4,6 +4,7 @@ package in.cs.main.controller;
 import in.cs.main.entities.Accounts;
 import in.cs.main.service.AccountService;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -14,7 +15,9 @@ import java.util.List;
 @RequestMapping("/api/accounts")
 @CrossOrigin(origins = "*")
 public class AccountController {
-
+	
+	
+@Autowired
  private	AccountService accountService;
 	
   
