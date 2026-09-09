@@ -63,6 +63,12 @@ public class AccountService {
                 .orElseThrow(() ->
                         new RuntimeException("Account not found"));
     }
+
+
+	public BigDecimal checkBalance(String accountNumber) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 	
 }
